@@ -1,7 +1,6 @@
 # ProjetoAceitacao-GQS
-Automação de Teste funcional para website
+Functional Test Automation for Website
 
+After cloning the project into an IDE, compile it using Java version 8.
 
-Depois de clonar o projeto em alguma IDE, compilá-lo em Java na versão 8.
-
-Para rodar a automação, rode o Runnable da Classe Runner.Java
+To run the automation, execute the Runnable class Runner.java.
