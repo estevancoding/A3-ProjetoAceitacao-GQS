@@ -8,8 +8,6 @@ The automation project uses the following key technologies:
 
 * **Language:** Java 8+
 
-*
-
 **BDD Framework:** Cucumber (Gherkin)
 
 * **Web Automation:** Selenium WebDriver (Assumed)
